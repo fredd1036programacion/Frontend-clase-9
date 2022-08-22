@@ -1,0 +1,135 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+body{
+    font-family: Roboto;
+}
+
+.encabezado{
+background-color: #222222;
+color:white
+}
+
+.Nav_encabezado{text-align: right;}
+
+.a_encabezado{
+    color:white;
+    text-decoration: none;
+}
+
+.logo{
+    height: 80px;
+    background-color: #F0A83E;
+}
+.nav_logo{text-align: right; 
+        }
+
+.a_logo{text-decoration: none}
+
+.imagen_de_fondo{
+    background-image: url("../img/bowl-and-pet-daities-on-green-background\ 1.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-SIZE: COVER ;
+    text-align: center;
+}
+
+.texto_del_fondo{
+    position: absolute;
+    background-color:#FFFFFF;
+    width: 345px;
+    height: 35px;
+    left: 800px;
+    top: 246px;
+    border-radius: 5px;
+    font-size: 26px;
+    font-weight:bold
+}
+
+.texto_del_fondo1{
+    position: absolute;
+    width: 645px;
+    height: 35px;
+    left: 658px;
+    top: 300px;
+    font-weight:bold
+}
+
+.texto_del_fondo2{
+    position: absolute;
+        background-color:#F0A83E;
+    width: 345px;
+    height: 25px;
+    left: 800px;
+    top: 330px;
+    border-radius: 5px
+}
+
+.pata_sin_fondo{display: block;
+    margin: auto;}
+
+.imagenes_de_productos{background-color: #FBFAF6;
+background-repeat:no-repeat;
+font-weight: 5000}
+
+.conctananos1{text-align:center}
+
+li{background-color:#3C2313;
+    border-radius: 5px;
+    line-height:20px;
+    color:white;
+    
+}
+
+.final_vinculos{
+   text-align: center; 
+}
+
+.vinculos{
+    background-color: #3C2313;
+    border-radius: 10px;
+    color:white
+ }
+
+ .vinculo1{
+    background-color: #F0A83E  ;
+    border-radius: 100px;
+    color:white;
+    }
+
+.seccion_footer {
+
+background-color: #F0A83E;
+color:white;
+height: 50px
+
+}
+
+.titulo_2_footer{
+color:black;
+background-color: white;
+border-radius: 10px;
+text-align: right;
+
+}
+
+.titulo_3_footer{
+    color:white;
+    background-color: #3C2313;
+    border-radius: 10px;
+    text-align: right;
+    
+    }
+
+.section_footer_2{
+    background-color:  #3C2313;
+    height: 310px;
+    color:white
+}
+
+.localidad{
+
+ font-size : 20px;
+ font-weight: bold;   
+}
